@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name elmCarrier_sh1-rescue)(type Legacy)(uri ${KIPRJMOD}/elmCarrier_sh1-rescue.lib)(options "")(descr ""))
+)
